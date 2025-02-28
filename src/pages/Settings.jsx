@@ -1,4 +1,3 @@
-import { ROWLOCK } from "sequelize/lib/table-hints";
 import Heading from "../ui/Heading";
 import Row from "../ui/Row";
 import UpdateSettingsForm from "../features/settings/UpdateSettingsForm";
